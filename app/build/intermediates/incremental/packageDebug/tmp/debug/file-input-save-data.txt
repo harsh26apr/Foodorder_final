@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jun 24 19:39:48 IST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\harsh\\Desktop\\food-ordering-system-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

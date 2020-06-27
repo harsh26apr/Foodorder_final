@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Foodorder_final.iml" filepath="$PROJECT_DIR$/Foodorder_final.iml" group="Foodorder_final" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Foodorder_final/app" />
+    </modules>
+  </component>
+</project>
